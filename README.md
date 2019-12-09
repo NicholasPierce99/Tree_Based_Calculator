@@ -1,1 +1,1 @@
-# cs363-spring2019-assignment4
+Tree based calculator that utilizes several design patterns.
